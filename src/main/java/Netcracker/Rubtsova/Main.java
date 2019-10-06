@@ -10,5 +10,6 @@ public static void main(String[] args)
             Array obj1 = new Array(array);
             obj1.sortMassiv();
             obj1.outMas();
+            obj1.outMasSecond();
         }
 }

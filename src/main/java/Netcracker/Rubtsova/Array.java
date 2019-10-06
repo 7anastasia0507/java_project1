@@ -33,4 +33,12 @@ public class Array {
         System.out.println("Element"+ i + " = " + array[i]);
         } return array;
     }
+
+/*метод для второго коммита*/
+public int[] outMasSecond()
+{
+    for(int i=0; i<array.length; i++){
+        System.out.println("Elem = " + array[i]);
+    } return array;
+}
 }
